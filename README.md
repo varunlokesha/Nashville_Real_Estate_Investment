@@ -32,7 +32,6 @@ Each Model was built after various data preprocessing steps like encoding, scali
 Also, Hyperparameter tuning was used to establish an optimal number of nodes, estimators and other parameters for building optimum models.
 
 ## Conclusion
----
 
 
 |                  |     Logistic model    |     Decision Tree    |     Random Forest    |     Gradient Boosting    |
