@@ -12,25 +12,24 @@ The exercise aims to effectively code and build a variety of classification mode
 
 
 ## Technologies
----
+
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) 
 
 <br>
 
 ## Data Cleaning & Feature Engineering 
----
 
-Null Value Check, Outlier Check, Checking the categorical feature balance/distribution were some of the data cleaning tasks. 
 
-For Exploratory Data Analysis, The features were closely studies and various plots were used to understand how the features were correlated.
+Null Value Check, Outlier Check, and Checking the categorical feature balance/distribution were some of the data cleaning tasks. 
+
+For Exploratory Data Analysis, The features were closely studied and various plots were used to understand how the features were correlated.
 
 ## Modelling
----
 
-Each Model were built after various data preprocessing steps like encoding, scaling, feature engineering.
+Each Model was built after various data preprocessing steps like encoding, scaling, and feature engineering.
 
-Also Hyperparameter tuning was used to establish optimal number of nodes, estimators and other parameters for building optimum models.
+Also, Hyperparameter tuning was used to establish an optimal number of nodes, estimators and other parameters for building optimum models.
 
 ## Conclusion
 ---
@@ -44,5 +43,5 @@ Also Hyperparameter tuning was used to establish optimal number of nodes, estima
 |     AUC          |     0.561             |     0.5782           |     0.6053           |     0.60056              |
 
 
-Based on the comparison table comparing important metrics like accuracy, precision, recall and AUC, it can be seen that gradient boosting has the highest accuracy along with having a better precision rate which indicates the accuracy of positive predictions. Also, the AUC of gradient boosting is the highest which signifies that it is a better classifier overall. Hence based on these 3 key metrics gradient boosting model is recommended to be used by the real estate company.
+Based on the comparison table comparing important metrics like accuracy, precision, recall and AUC, it can be seen that gradient boosting has the highest accuracy and a better precision rate, indicating the accuracy of positive predictions. Also, the AUC of gradient boosting is the highest which signifies that it is a better classifier overall. Hence, based on these 3 key metrics, the gradient boosting model is recommended.
 
